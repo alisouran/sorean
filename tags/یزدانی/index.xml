@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on سورِآن</title>
-    <link>https://sorean.ir/post/</link>
-    <description>Recent content in Posts on سورِآن</description>
+    <title>یزدانی on سورِآن</title>
+    <link>https://sorean.ir/tags/%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/</link>
+    <description>Recent content in یزدانی on سورِآن</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>hi@alisouran.ir (آقای سورِآن)</managingEditor>
     <webMaster>hi@alisouran.ir (آقای سورِآن)</webMaster>
     <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sorean.ir/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sorean.ir/tags/%DB%8C%D8%B2%D8%AF%D8%A7%D9%86%DB%8C/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,20 +21,6 @@
       <description>&lt;p&gt;اولین آهنگی که خیلی دلم میخواست بزارم توی وبلاگ و خیلی هم قشنگ بود به نظرم آهنگ عشقت رضا یزدانی بود.&lt;/p&gt;
 
 &lt;p&gt;آهنگی که خیلی با احساس بود از نظرم.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>اولین پست</title>
-      <link>https://sorean.ir/post/first-post/</link>
-      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
-      <author>hi@alisouran.ir (آقای سورِآن)</author>
-      <guid>https://sorean.ir/post/first-post/</guid>
-      <description>&lt;h3 id=&#34;به-نام-او-که-آرامش-بخش-وجود-است&#34;&gt;به نام او که آرامش بخش وجود است&lt;/h3&gt;
-
-&lt;p&gt;&lt;br /&gt;
-شروع این وبلاگ از امروز ۱۹ اردیبهشت ۱۳۹۸ خورشیدی&lt;/p&gt;
-
-&lt;p&gt;روزی که نیاز به نوشتن رو توی خودم پیدا کردم و حس کردم.&lt;/p&gt;</description>
     </item>
     
   </channel>
