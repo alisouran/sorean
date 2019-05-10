@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>سورِآن</title>
+    <link>https://sorean.ir/</link>
+    <description>Recent content on سورِآن</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>hi@alisouran.ir (آقای سورِآن)</managingEditor>
+    <webMaster>hi@alisouran.ir (آقای سورِآن)</webMaster>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sorean.ir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>اولین پست</title>
+      <link>https://sorean.ir/post/first-post/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      <author>hi@alisouran.ir (آقای سورِآن)</author>
+      <guid>https://sorean.ir/post/first-post/</guid>
+      <description>&lt;h3 id=&#34;به-نام-او-که-آرامش-بخش-وجود-است&#34;&gt;به نام او که آرامش بخش وجود است&lt;/h3&gt;
+
+&lt;p&gt;شروع این وبلاگ از امروز ۱۹ اردیبهشت ۱۳۹۸ خورشیدی&lt;/p&gt;
+
+&lt;p&gt;روزی که نیاز به نوشتن رو توی خودم پیدا کردم و حس کردم.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>داستان‌من</title>
+      <link>https://sorean.ir/page/mystory/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hi@alisouran.ir (آقای سورِآن)</author>
+      <guid>https://sorean.ir/page/mystory/</guid>
+      <description>فهرست خاطرات</description>
+    </item>
+    
+    <item>
+      <title>درباره‌ی ما</title>
+      <link>https://sorean.ir/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hi@alisouran.ir (آقای سورِآن)</author>
+      <guid>https://sorean.ir/page/about/</guid>
+      <description>دوتا عاشق که چیزی جز عشق تو سرشون نیست! 
+کامل میشه زودی این قسمت :)</description>
+    </item>
+    
+    <item>
+      <title>موسیقی</title>
+      <link>https://sorean.ir/page/mymusic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>hi@alisouran.ir (آقای سورِآن)</author>
+      <guid>https://sorean.ir/page/mymusic/</guid>
+      <description>شاید این آهنگ ها برای شما یسری هاشون جذاب نباشه ولی
+ به سلیقه‌های مختلف احترام بزاریم  سعی میکنم متن آهنگ رو بزارم و حسی که اون آهنگ بهم میده رو هم توضیح بدم.
+بیشتر سلیقم هیپ‌هاپه ولی
+ همه سبک آهنگی گوش میدم و سعی میکنم با انواع موسیقی آشنا بشم  کلا توی آهنگ‌هایی که دارم سعی میکنم به متن و معنی متن بار اول گوش بدم و فکر کنم</description>
+    </item>
+    
+  </channel>
+</rss>
