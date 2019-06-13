@@ -5,10 +5,19 @@
     <link>https://sorean.ir/post/</link>
     <description>Recent content in Posts on سورِآن</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sorean.ir/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>نابودی</title>
+      <link>https://sorean.ir/post/naught/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sorean.ir/post/naught/</guid>
+      <description>&lt;p&gt;گاهی وقتا یسری اتفاق‌ها میفته، تا تو از حبابی که برای خودت ساخته بودی خارج بشی، فکر نکنی خیلی خوبی و میتونی بقیه رو خیلی راحت قضاوت کنی.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>خسته</title>
@@ -16,7 +25,7 @@
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://sorean.ir/post/tired/</guid>
-      <description>&lt;h1 id=&#34;خسته-ام&#34;&gt;خسته‌ام&lt;/h1&gt;
+      <description>&lt;h3 id=&#34;خسته-ام&#34;&gt;خسته‌ام&lt;/h3&gt;
 
 &lt;p&gt;از سردرد های بی دلیل&lt;/p&gt;
 
